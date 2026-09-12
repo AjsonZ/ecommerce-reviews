@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商评论抓取"
+  short_description: "按数量或安全上限抓取淘宝、天猫评价，并导出 Excel"
+  default_prompt: "使用 $ecommerce-reviews 抓取商品评论，并按指定评价类型导出 Excel。"
